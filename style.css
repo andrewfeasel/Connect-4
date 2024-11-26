@@ -1,0 +1,17 @@
+td {
+    border: 1px solid black;
+    width:64px;
+    font-family:verdana;
+    font-size:48px;
+    height:64px;
+    text-align:center;
+}
+button{
+    border: 1px solid black;
+    width:66px;
+    height:66px;
+    text-align:center;
+}
+#newgame{
+    width:486px;
+}
