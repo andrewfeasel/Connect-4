@@ -1,0 +1,3 @@
+win detection is needed badly
+the game could look better with some CSS
+too many buttons, I need an onclick event listener.
